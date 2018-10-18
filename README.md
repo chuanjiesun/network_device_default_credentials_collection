@@ -1,7 +1,7 @@
   It's a project to collect default credentials of network devices.
   ==================================================================
   
-  `At present the content from http://cirt.net/`
+  `At present the content comes from http://cirt.net/`
   
   
   ID     |   credentials    |   vendor    | product
