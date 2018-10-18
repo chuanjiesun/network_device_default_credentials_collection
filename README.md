@@ -69,6 +69,7 @@
 | Adtech|AX4000|User ID : root</br>Password : ax400</br>Level : Administrator</br>Doc|
 | Advanced Integration|PC BIOS|Method : Console</br>Password : Advance</br>Level : Administrator</br>Doc|
 | AIRAYA Corp|AIRAYA WirelessGRID|User ID : Airaya</br>Password : Airaya</br>Level : Administrator</br>Notes : The default IP address is 192.168.1.70.
+|
 | Airlink|AnyGate|Version : GW-200</br>Method : HTTP</br>User ID : (none)</br>Password : admin</br>Level : Administrator</br>Doc|
 | AirLink Plus|RTW026|Version : V0.80.0010 (firmware)</br>Method : HTTP</br>User ID : (none)</br>Password : admin</br>Level : Administrator</br>Doc|
 | Airway|Transport|User ID : (none)</br>Password : 0000</br>Level : Administrator</br>Doc|
@@ -603,8 +604,7 @@
 | Efficient|Speedstream DSL|Method : Telnet</br>Password : admin</br>Level : Administrator</br>Doc|
 | Efficient|Speedstream|Version : 5200</br>Method : HTTP, Telnet</br>User ID : (none)</br>Password : (none)</br>Doc</br>Notes : Default IP 10.0.0.1/8|
 | Efficient|Speedstream|Version : 5600</br>Method : HTTP, Telnet</br>User ID : (none)</br>Password : (none)</br>Doc</br>Notes : Default IP 10.0.0.1/8|
-| Efficient|Speedstream|Version : 57xx and 59xx Series</br>Method : HTTP, Telnet</br>User ID : login</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : Default IP 192.168.254.254/24
-The serial number can be used as the password if you  push the reset button for 3 seconds.|
+| Efficient|Speedstream|Version : 57xx and 59xx Series</br>Method : HTTP, Telnet</br>User ID : login</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : Default IP 192.168.254.254/24 The serial number can be used as the password if you  push the reset button for 3 seconds.|
 | Efficient|Speedstream|Method : HTTP, Telnet</br>User ID : superuser</br>Password : admin</br>Level : Administrator</br>Doc|
 | Edimax|7205APL|User ID : guest</br>Password : 1234</br>Doc</br>Notes : Allows backup of config.bin which contains all system passwords.|
 | Edimax|AR|User ID : admin</br>Password : 1234</br>Doc|
@@ -1120,7 +1120,8 @@ The serial number can be used as the password if you  push the reset button for 
 | NetBotz|Appliances|User ID : netbotz</br>Password : netbotz</br>Doc|
 | Netcomm|NB1300|User ID : admin</br>Password : password</br>Level : Administrator</br>Doc|
 | Netcomm|NB1300|User ID : user</br>Password : password</br>Level : User</br>Doc|
-| Netcomm|NB5580/NB5580W|User ID : (blank)</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : - All users are admin- Any user name (or none) can be used|
+| Netcomm|NB5580/NB5580W|User ID : (blank)</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : - All users are admin
+- Any user name (or none) can be used|
 | Netcordia|NetMRI|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Doc|
 | Netgear|802.11b Wireless Cable/DSL router|Version : MR814</br>User ID : admin</br>Password : password</br>Level : Administrator</br>Doc|
 | Netgear|Cable/DSL Router|Version : RT-314</br>Method : Telnet, Web</br>User ID : admin</br>Password : 1234</br>Level : Administrator</br>Doc|
@@ -1694,8 +1695,7 @@ The serial number can be used as the password if you  push the reset button for 
 | rPath|rPath|Method : HTTP</br>User ID : admin</br>Password : password</br>Level : Administrator</br>Doc|
 | Saba|Centra|Version : 7</br>Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Doc|
 | RSA|Network Intelligence|Method : SSH</br>User ID : master</br>Password : themaster01</br>Level : Administrator</br>Doc|
-| RSA|SecurID Appliance|Method : HTTP</br>User ID : administrator</br>Password : RSAAppliance</br>Level : Administrator</br>Doc</br>Notes : Default IP: 192.168.100.100
-Default port: 8098|
+| RSA|SecurID Appliance|Method : HTTP</br>User ID : administrator</br>Password : RSAAppliance</br>Level : Administrator</br>Doc</br>Notes : Default IP: 192.168.100.100 Default port: 8098|
 | RSA|Access Manager|User ID : admin</br>Password : admin1234</br>Level : Administrator</br>Doc|
 | RSA|Cleartrust|Method : HTTP</br>User ID : admin</br>Password : admin1234</br>Doc|
 | Safecom|Router|User ID : admin</br>Password : epicrouter</br>Level : Administrator</br>Doc|
@@ -1881,7 +1881,7 @@ Default port: 8098|
 | TexBox|TexBox|Method : HTTP</br>User ID : (none)</br>Password : 123</br>Doc|
 | TextPortal|TextPortal|User ID : god1</br>Password : 12345</br>Doc|
 | TextPortal|TextPortal|User ID : god2</br>Password : 12345</br>Doc|
-| Thecus Tech|N5200|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Notes : Default WAN IP: 192.168.1.100 </br> Default LAN IP: 192.168.2.100 or 192.168.2.254|
+| Thecus Tech|N5200|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Notes : Default WAN IP: 192.168.1.100Default LAN IP:192.168.2.100 or 192.168.2.254|
 | TIBCO|MFT Internet Server|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Notes : /admin|
 | Tibco|Slingshot|Method : HTTP</br>User ID : admin</br>Password : changeit</br>Level : Administrator|
 | TimeTools|SR Series NTP Server|Method : HTTP, FTP, telnet</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : For HTTP, only a password is required.|
@@ -1890,14 +1890,8 @@ Default port: 8098|
 | Tiny|PC BIOS|Method : Console</br>Password : Tiny</br>Level : Administrator</br>Doc|
 | TopLayer|AppSwitch|User ID : siteadmin</br>Password : toplayer</br>Level : Administrator</br>Doc|
 | TMC|PC BIOS|Method : Console</br>Password : BIGO</br>Level : Administrator</br>Doc|
-| TOTOLINK|Soho Routers|User ID : root</br>Password : 12345</br>Notes : G150R-V1
-G300R-V1
-N150RH-V1
-N301RT-V1|
-| TOTOLINK|Soho Routers|User ID : onlime_r</br>Password : 12345</br>Notes : G150R-V1
-G300R-V1
-N150RH-V1
-N301RT-V1|
+| TOTOLINK|Soho Routers|User ID : root</br>Password : 12345</br>Notes : G150R-V1 G300R-V1 N150RH-V1 N301RT-V1|
+| TOTOLINK|Soho Routers|User ID : onlime_r</br>Password : 12345</br>Notes : G150R-V1 G300R-V1 N150RH-V1 N301RT-V1|
 | Toshiba|PC BIOS|Method : Console</br>Password : 24Banc81</br>Level : Administrator</br>Doc|
 | Toshiba|PC BIOS|Method : Console</br>Password : Toshiba</br>Level : Administrator</br>Doc|
 | Toshiba|PC BIOS|Method : Console</br>Password : toshy99</br>Level : Administrator</br>Doc|
@@ -2097,4 +2091,4 @@ N301RT-V1|
 | Zyxel|Generic Routers|Method : Telnet</br>Password : 1234</br>Level : Administrator</br>Doc|
 | ZYXEL|Prestige 652HW|Method : HTTP</br>User ID : admin</br>Password : 1234</br>Level : Administrator</br>Doc|
 | Zyxel|Prestige|Version : 660HW</br>Method : HTTP, FTP, Telnet</br>User ID : (none)</br>Password : 1234</br>Doc</br>Notes : Default IP 192.168.1.1|
-| ZyXEL|Prestige|Version : P-2302R</br>Method : HTTP</br>User ID : admin</br>Password : 1234</br>Level : Administrator</br>Doc|
+| ZyXEL|Prestige|Version : P-2302R</br>Method : HTTP</br>User ID : admin</br>Password : 1234</br>Level : Administrator</br>Doc</br>|
