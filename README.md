@@ -2102,4 +2102,4 @@ N301RT-V1</br>|
 | Zyxel|Generic Routers|Method : Telnet</br>|Password : 1234</br>|Level : Administrator</br>|Doc</br>|
 | ZYXEL|Prestige 652HW|Method : HTTP</br>|User ID : admin</br>|Password : 1234</br>|Level : Administrator</br>|Doc</br>|
 | Zyxel|Prestige|Version : 660HW</br>|Method : HTTP, FTP, Telnet</br>|User ID : (none)</br>|Password : 1234</br>|Doc</br>|Notes : Default IP 192.168.1.1</br>|
-| ZyXEL|Prestige|Version : P-2302R</br>|Method : HTTP</br>|User ID : admin</br>|Password : 1234</br>|Level : Administrator</br>|Doc</br>|工作完成，我要睡一会了...
+| ZyXEL|Prestige|Version : P-2302R</br>|Method : HTTP</br>|User ID : admin</br>|Password : 1234</br>|Level : Administrator</br>|Doc</br>|
