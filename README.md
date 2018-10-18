@@ -1,6 +1,6 @@
   It's a project to collect default authtication of network devices.
   ==================================================================
   
-  `At present the content from [cirt.net](http://www.cirt.net)`
+  `At present the content from [cirt.net][http://cirt.net]`
   
   
