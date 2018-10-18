@@ -69,7 +69,6 @@
 | Adtech|AX4000|User ID : root</br>Password : ax400</br>Level : Administrator</br>Doc|
 | Advanced Integration|PC BIOS|Method : Console</br>Password : Advance</br>Level : Administrator</br>Doc|
 | AIRAYA Corp|AIRAYA WirelessGRID|User ID : Airaya</br>Password : Airaya</br>Level : Administrator</br>Notes : The default IP address is 192.168.1.70.
-|
 | Airlink|AnyGate|Version : GW-200</br>Method : HTTP</br>User ID : (none)</br>Password : admin</br>Level : Administrator</br>Doc|
 | AirLink Plus|RTW026|Version : V0.80.0010 (firmware)</br>Method : HTTP</br>User ID : (none)</br>Password : admin</br>Level : Administrator</br>Doc|
 | Airway|Transport|User ID : (none)</br>Password : 0000</br>Level : Administrator</br>Doc|
