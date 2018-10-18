@@ -1881,10 +1881,7 @@ Default port: 8098|
 | TexBox|TexBox|Method : HTTP</br>User ID : (none)</br>Password : 123</br>Doc|
 | TextPortal|TextPortal|User ID : god1</br>Password : 12345</br>Doc|
 | TextPortal|TextPortal|User ID : god2</br>Password : 12345</br>Doc|
-| Thecus Tech|N5200|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Notes : Default WAN IP: 192.168.1.100
-
-Default LAN IP:
-192.168.2.100 or 192.168.2.254|
+| Thecus Tech|N5200|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Notes : Default WAN IP: 192.168.1.100 </br> Default LAN IP: 192.168.2.100 or 192.168.2.254|
 | TIBCO|MFT Internet Server|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Notes : /admin|
 | Tibco|Slingshot|Method : HTTP</br>User ID : admin</br>Password : changeit</br>Level : Administrator|
 | TimeTools|SR Series NTP Server|Method : HTTP, FTP, telnet</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : For HTTP, only a password is required.|
