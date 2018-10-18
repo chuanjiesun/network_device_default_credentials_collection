@@ -1119,8 +1119,7 @@
 | NetBotz|Appliances|User ID : netbotz</br>Password : netbotz</br>Doc|
 | Netcomm|NB1300|User ID : admin</br>Password : password</br>Level : Administrator</br>Doc|
 | Netcomm|NB1300|User ID : user</br>Password : password</br>Level : User</br>Doc|
-| Netcomm|NB5580/NB5580W|User ID : (blank)</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : - All users are admin
-- Any user name (or none) can be used|
+| Netcomm|NB5580/NB5580W|User ID : (blank)</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : - All users are admin - Any user name (or none) can be used|
 | Netcordia|NetMRI|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Doc|
 | Netgear|802.11b Wireless Cable/DSL router|Version : MR814</br>User ID : admin</br>Password : password</br>Level : Administrator</br>Doc|
 | Netgear|Cable/DSL Router|Version : RT-314</br>Method : Telnet, Web</br>User ID : admin</br>Password : 1234</br>Level : Administrator</br>Doc|
