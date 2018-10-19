@@ -2069,6 +2069,7 @@
 | Xerox|WorkCentre|Version : M118/M118i</br>Method : HTTP</br>User ID : admin</br>Password : x-admin</br>Level : Administrator</br>Doc|
 | Xerox|Document Centre|Method : FTP</br>User ID : NSA</br>Password : nsa</br>Level : Guest|
 | Xinit Systems Ltd.|Openfiler|Method : HTTP</br>User ID : openfiler</br>Password : password</br>Level : Administrator</br>Doc|
+|Xiongmai|雄迈云XMeye P2P云服务器|User Id:default</br>Password : tluafed</br></br>User Id:default</br>Password : (null)</br>|
 | Xylan|Omniswitch|Method : Telnet</br>User ID : admin</br>Password : switch</br>Level : Administrator</br>Doc|
 | Xylan|Omniswitch|Method : Telnet</br>User ID : diag</br>Password : switch</br>Doc|
 | Yakumo|Routers|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Doc|
