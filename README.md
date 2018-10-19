@@ -763,6 +763,7 @@
 | Hewlett|Packard|Method : Multiple</br>User ID : admin</br>Password : admin</br>Level : Administrator|
 | Hewlett|Packard|Method : HTTP</br>User ID : Administrator</br>Password : The last eight digits of the serial number</br>Level : Administrator</br>Notes : RILOE II|
 | Hewlett|Packard|Method : SSH</br>User ID : HPSupport</br>Password : badg3r5</br>Level : Administrator|
+| Hikvision|DVR/NVR|Method : HTTP</br>User ID : admin</br>Password : 12345|
 | Horizon DataSys|FoolProof|User ID : (none)</br>Password : foolproof</br>Level : Administrator|
 | Honeynet Project|Honeywall|Version : roo (1.2)</br>Method : console</br>User ID : root</br>Password : honey</br>Level : Administrator|
 | Honeynet Project|Honeywall|Version : roo (1.2)</br>Method : console</br>User ID : roo</br>Password : honey</br>Level : Administrator|
