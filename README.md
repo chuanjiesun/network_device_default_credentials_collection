@@ -1889,7 +1889,7 @@
 | Tinys|PC BIOS|Method : Console</br>Password : tiny</br>Level : Administrator|
 | Tiny|PC BIOS|Method : Console</br>Password : Tiny</br>Level : Administrator|
 | TopLayer|AppSwitch|User ID : siteadmin</br>Password : toplayer</br>Level : Administrator|
-| Topsec | Fireware |Method : https/ssh</br>User ID : superman</br>Password : talent|
+| Topsec | Fireware |Method : https/ssh</br>User ID : superman</br>Password : talent</br></br>User ID : superman</br>Password : talent!23|
 | TMC|PC BIOS|Method : Console</br>Password : BIGO</br>Level : Administrator|
 | TOTOLINK|Soho Routers|User ID : root</br>Password : 12345</br>Notes : G150R-V1 G300R-V1 N150RH-V1 N301RT-V1|
 | TOTOLINK|Soho Routers|User ID : onlime_r</br>Password : 12345</br>Notes : G150R-V1 G300R-V1 N150RH-V1 N301RT-V1|
