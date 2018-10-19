@@ -1901,7 +1901,7 @@
 | Trend Micro|Trend Micro|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator|
 | Trend Micro|Interscan Messaging Security Appliance|Version : 7</br>User ID : admin</br>Password : imsa7.0</br>Level : Administrator|
 | Trend Micro|Trenmicro InterScan Messaging Security Appliance (IMSA) 5000|Version : 1.0</br>Method : HTTP, SSH, Serial Console</br>User ID : root</br>Password : trendimsa1.0</br>Level : Administrator|
-| Triumph|Adler|Method : HTTP</br>User ID : admin</br>Password : 0</br>Level : Administrator|
+| Triumph-Adler|DC 2116|Method : HTTP</br>User ID : admin</br>Password : 0</br>Level : Administrator|
 | Tumbleweed|IME|Method : HTTPS</br>User ID : Admin</br>Password : SECRET123</br>Level : Administrator</br>Doc</br>Notes : Case sensitive.|
 | Typo3 Association|Typo3|Method : HTTP</br>User ID : admin</br>Password : password</br>Level : Administrator|
 | TYPO3|TYPO3|Version : 3.6</br>User ID : admin</br>Password : password</br>Level : Administrator|
