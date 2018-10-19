@@ -4,8 +4,8 @@
   `At present the content comes from http://cirt.net/`
   
   
- | vendor       |   product       |   credentials |
- |--------------|--------------|--------------|
+| vendor       |   product       |   credentials |
+|--------------|--------------|--------------|
 | 360 Systems|Image Server 2000|User ID : factory</br>Password : factory|
 | 2Wire, Inc.|Wireless Routers|User ID : http</br>Password : (none)</br>Level : Administrator|
 | 3M|Volition|Version : VOL-0215</br>User ID : volition</br>Password : (none)</br>Level : Administrator|
@@ -689,11 +689,13 @@
 | Grandstream Networks, Inc|HandyTone|Version : 1.1.0.31</br>Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator|
 | Grandstream Networks, Inc|HandyTone|Version : 1.1.0.31</br>Method : HTTP</br>User ID : End User</br>Password : 123</br>Level : User|
 | Groupee, Inc.|Ultimate Bulletin Board|Method : HTTP</br>User ID : Admin5</br>Password : 4tugboat</br>Level : Administrator</br>Doc</br>Notes : UBB|
-| H2O Project|Medialibrary|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator|
 | GuardOne|BizGuard|Method : Multi</br>User ID : n.a</br>Password : guardone</br>Level : Administrator|
 | GuardOne|Restrictor|Method : Multi</br>Password : guardone</br>Level : Administrator|
+| H2O Project|Medialibrary|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator|
+| H3C |Fireware|Method : HTTP</br>User ID : admin</br>Password : admin|
 | Hemoco Software|Lansweeper|User ID : lansweeperuser</br>Password : mysecretpassword0*</br>Level : Administrator|
 | Hayes|Century|Version : MR200</br>User ID : system</br>Password : isp</br>Level : Administrator|
+| Huawei|Router|Method : HTTP</br>User ID : admin</br>Password : Admin@123|
 | HighPOint|RAID Management Utilities|Method : HTTP</br>User ID : RAID</br>Password : hpt</br>Level : Administrator|
 | Hewlett|Packard|Method : Multi</br>User ID : ADVMAIL</br>Password : (none)</br>Level : HPOFFICE</br>Doc</br>Notes : DATA|
 | Hewlett|Packard|Method : Multi</br>User ID : ADVMAIL</br>Password : HP|
@@ -995,6 +997,7 @@
 | Lantronix|ThinWeb Manager (MSS|Version : 1.0</br>User ID : (none)</br>Password : access</br>Level : Administrator|
 | Leading Edge|PC BIOS|Method : Console</br>Password : MASTER</br>Level : Administrator|
 | Leadsec|Fireware|Method : https</br>User ID : admin</br>Password : leadsec@7766</br></br>User ID : admin</br>Password : administrator</br></br>User ID : admin</br>Password : bane@7766</br>|
+| Legendsec|Fireware|Method : https</br>User ID : admin</br>Password : firewall|
 | Lenel|OnGuard|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : TCP 9999|
 | Level1|WAP_002|User ID : admin</br>Password : admin</br>Level : Administrator|
 | LGIC|Goldstream|User ID : LR-ISDN</br>Password : LR-ISDN|
@@ -1273,6 +1276,7 @@
 | Novell|Netware|Method : Multi</br>User ID : WINSABRE</br>Password : SABRE|
 | Novell|Netware|Method : Multi</br>User ID : WINSABRE</br>Password : WINSABRE|
 | Novell|Vibe|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator|
+| NSFOCUS|IPS|Method : https</br>User ID : weboper</br>Password : weboper|
 | Nurit|PC BIOS|Method : Console</br>User ID : $system</br>Password : (none)</br>Level : Administrator|
 | ODS|1094|User ID : ods</br>Password : ods|
 | Oleg Khabarov|Comfy CMS|Method : HTTP</br>User ID : username</br>Password : password</br>Level : Administrator|
@@ -1781,6 +1785,7 @@
 | Silicon Graphics|IRIX|Method : Multi</br>User ID : tour</br>Password : tour</br>Level : Administrator|
 | Silicon Graphics|IRIX|Method : Multi</br>User ID : tutor</br>Password : (none)</br>Level : Administrator|
 | Silicon Graphics|IRIX|Method : Multi</br>User ID : tutor</br>Password : tutor</br>Level : Administrator|
+| Singfor|Fireware|Method : https</br>User ID : admin</br>Password : admin|
 | Sitecom|DC|User ID : admin</br>Password : admin</br>Level : Administrator|
 | Sitecom|WL|User ID : admin</br>Password : password</br>Level : Administrator|
 | Sitecom|WL|User ID : admin</br>Password : password</br>Level : Administrator|
@@ -2032,6 +2037,7 @@
 | Verizon|9100EM|User ID : admin</br>Password : password</br>Level : Administrator</br>Notes : The router password may have been changed to the serial number of the router|
 | Verizon|MI424WR|User ID : admin</br>Password : password</br>Level : Administrator</br>Notes : The router password may have been changed to the serial number of the router|
 | Verizon|9100VM|User ID : admin</br>Password : password</br>Level : Administrator</br>Notes : The router password may have been changed to the serial number of the router|
+| VenusTech|Fireware|Method : https</br>User ID : admin</br>Password : bane@7766</br></br>User ID : admin</br>Password : admin@123|
 | VieNuke|VieBoard|Version : 2.6</br>User ID : admin</br>Password : admin</br>Level : Administrator|
 | Vextrec Technology|PC BIOS|Method : Console</br>Password : Vextrex|
 | Vina Technologies|ConnectReach|User ID : (blank)</br>Password : (none)|
