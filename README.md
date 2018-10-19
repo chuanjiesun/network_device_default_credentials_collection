@@ -1628,7 +1628,7 @@
 | Promise Technology, Inc.|WebPAM|User ID : administrator</br>Password : password</br>Level : Administrator|
 | Proxicast|LAN|Method : HTTP</br>User ID : (none)</br>Password : 1234</br>Level : Administrator</br>Notes : Default LAN IP 192.168.1.1.|
 | Proxim|AP|User ID : (blank)</br>Password : public</br>Level : Administrator</br>Doc</br>Notes : Default SSID is tsunami|
-| Q|Tec|User ID : Admin</br>Password : (none)</br>Level : Administrator|
+| Q-Tec|790RH|User ID : Admin</br>Password : (none)</br>Level : Administrator|
 | PRTG|PRTG Network Monitor|User ID : prtgadmin</br>Password : prtgadmin|
 | QDI|PC BIOS|Method : Console</br>Password : QDI</br>Level : Administrator|
 | QDI|SpeedEasy BIOS|Method : Console</br>Password : lesarotl</br>Level : Administrator|
