@@ -430,15 +430,16 @@
 | Cyclades|Cyclades|Version : TS800</br>Method : web</br>User ID : root</br>Password : tslinux</br>Level : Administrator|
 | Cyclades|PR|User ID : super</br>Password : surt</br>Level : Administrator|
 | Daewoo|PC BIOS|Method : Console</br>Password : Daewuu</br>Level : Administrator|
-| D|Link|Method : Telnet</br>User ID : Admin</br>Password : (none)</br>Level : Administrator|
-| D|Link|User ID : admin</br>Password : (none)|
-| D|Link|User ID : (none)</br>Password : private</br>Level : Administrator|
-| D|Link|Method : Telnet</br>User ID : D-Link</br>Password : D-Link|
-| D|Link|Version : DI-764</br>Method : HTTP</br>User ID : admin</br>Password : (none)</br>Level : Administrator|
-| D|LINK|User ID : admin</br>Password : admin</br>Level : Administrator|
-| D|Link|User ID : root</br>Password : admin</br>Level : Administrator|
-| D|Link|User ID : Admin</br>Password : (none)</br>Level : Administrator|
-| D|Link|Version : 1.04</br>User ID : root</br>Password : admin</br>Level : Administrator|
+| Dahua |DVR/NVR|Method : HTTP</br>User ID : admin</br>Password : admin</br></br>User ID : 888888</br>Password : 888888</br></br>User ID : 666666</br>Password : 666666|
+| D-Link|604|Method : Telnet</br>User ID : Admin</br>Password : (none)</br>Level : Administrator|
+| D-Link|DI-624|User ID : admin</br>Password : (none)|
+| D-Link|DSL-504|User ID : (none)</br>Password : private</br>Level : Administrator|
+| D-Link|hubs/switches|Method : Telnet</br>User ID : D-Link</br>Password : D-Link|
+| D-Link|Routers|Version : DI-764</br>Method : HTTP</br>User ID : admin</br>Password : (none)</br>Level : Administrator|
+| D-LINK|DSL-G664T|User ID : admin</br>Password : admin</br>Level : Administrator|
+| D-Link|DSL Router|User ID : root</br>Password : admin</br>Level : Administrator|
+| D-Link|DI-824VUP Airplus G Wireless VPN Router|User ID : Admin</br>Password : (none)</br>Level : Administrator|
+| D-Link|DCS-2121|Version : 1.04</br>User ID : root</br>Password : admin</br>Level : Administrator|
 | Dassault Systemes|Enovia V6|User ID : Test Everything</br>Password : (none)|
 | Dallas Semiconductors|TINI embedded JAVA Module|Version : <= 1.0</br>Method : Telnet</br>User ID : root</br>Password : tini</br>Level : Administrator|
 | Data General|AOS/VS|Method : Multi</br>User ID : operator</br>Password : operator</br>Level : Administrator|
