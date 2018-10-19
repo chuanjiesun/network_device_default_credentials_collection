@@ -1151,7 +1151,7 @@
 | Netscape|Netscape Enterprise Server|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator|
 | NetworkICE|ICECap Manager|Version : 2.0.22 <</br>Method : 8081</br>User ID : iceman</br>Password : (none)</br>Level : Administrator|
 | Netstar|Netpilot|User ID : admin</br>Password : password</br>Level : Administrator|
-| NewMedia|NET GmbH|Version : v23 SP1</br>Method : HTTP</br>User ID : root</br>Password : admin</br>Level : Administrator</br>Notes : HTTP, telnet and SSH. |
+| NewMedia-NET GmbH|DD-WRT|Version : v23 SP1</br>Method : HTTP</br>User ID : root</br>Password : admin</br>Level : Administrator</br>Notes : HTTP, telnet and SSH. |
 | Nexsan|ATABoy2F|Version : 8.10f</br>Method : HTTP</br>User ID : ADMIN</br>Password : PASSWORD</br>Level : Administrator|
 | NICE Systems Ltd.|NICELog|User ID : Nice-admin</br>Password : nicecti</br>Level : Administrator</br>Doc</br>Notes : This is the renamed Administrator account.|
 | NICE Systems Ltd.|NICELog|User ID : Administrator</br>Password : nicecti</br>Level : Administrator|
