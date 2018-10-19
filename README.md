@@ -1275,7 +1275,7 @@
 | ODS|1094|User ID : ods</br>Password : ods|
 | Oleg Khabarov|Comfy CMS|Method : HTTP</br>User ID : username</br>Password : password</br>Level : Administrator|
 | Open Source Point of Sale|Open Source Point of Sale|Method : HTTP</br>User ID : admin</br>Password : pointofsale</br>Level : Administrator|
-| Open|Xchange Inc.|Version : 5</br>User ID : mailadmin</br>Password : secret</br>Level : Administrator|
+| Open-Xchange Inc.|Open-Xchange Server|Version : 5</br>User ID : mailadmin</br>Password : secret</br>Level : Administrator|
 | Openlink|Administration Assistant|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : administrator|
 | Optivision|Nac 3000|User ID : root</br>Password : mpegvideo</br>Level : Administrator|
 | OpenMarket|Content Server|Method : HTTP</br>User ID : Coco</br>Password : hello|
