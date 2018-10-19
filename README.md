@@ -994,6 +994,7 @@
 | Lantronix|SecureLinux Console Manager (SLC)|Method : HTTP/SSH</br>User ID : sysadmin</br>Password : PASS</br>Level : Administrator|
 | Lantronix|ThinWeb Manager (MSS|Version : 1.0</br>User ID : (none)</br>Password : access</br>Level : Administrator|
 | Leading Edge|PC BIOS|Method : Console</br>Password : MASTER</br>Level : Administrator|
+| Leadsec|Fireware|Method : https</br>User ID : admin</br>Password : leadsec@7766</br></br>User ID : admin</br>Password : administrator</br></br>User ID : admin</br>Password : bane@7766</br>|
 | Lenel|OnGuard|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : TCP 9999|
 | Level1|WAP_002|User ID : admin</br>Password : admin</br>Level : Administrator|
 | LGIC|Goldstream|User ID : LR-ISDN</br>Password : LR-ISDN|
