@@ -695,7 +695,6 @@
 | H3C |Fireware|Method : HTTP</br>User ID : admin</br>Password : admin|
 | Hemoco Software|Lansweeper|User ID : lansweeperuser</br>Password : mysecretpassword0*</br>Level : Administrator|
 | Hayes|Century|Version : MR200</br>User ID : system</br>Password : isp</br>Level : Administrator|
-| Huawei|Router|Method : HTTP</br>User ID : admin</br>Password : Admin@123|
 | HighPOint|RAID Management Utilities|Method : HTTP</br>User ID : RAID</br>Password : hpt</br>Level : Administrator|
 | Hewlett|Packard|Method : Multi</br>User ID : ADVMAIL</br>Password : (none)</br>Level : HPOFFICE</br>Doc</br>Notes : DATA|
 | Hewlett|Packard|Method : Multi</br>User ID : ADVMAIL</br>Password : HP|
@@ -774,6 +773,8 @@
 | Hyperic, Inc.|Hyperic HQ Portal|Method : HTTP</br>User ID : hqadmin</br>Password : hqadmin</br>Level : Administrator|
 | Huawei Technologies Co|Multiple|User ID : admin</br>Password : admin</br>Level : Administrator</br>Doc</br>Notes : Also: Admin/admin|
 | Huawei Technologies Co|MT880r|User ID : TMAR#HWMT8007079</br>Password : (none)</br>Level : Administrator|
+| Huawei Technologies Co|Multiple|Method : HTTP</br>User ID : admin</br>Password : Admin@123|
+| Huawei Technologies Co|Switch|Method : HTTP</br>User ID : admin</br>Password : admin</br></br>User ID : admin</br>Password : admin@huawei.com|
 | Inedo|Proget|Method : HTTP</br>User ID : Admin</br>Password : Admin|
 | IBM|AIX|Method : Multi</br>User ID : guest</br>Password : (none)</br>Level : User|
 | IBM|AIX|Method : Multi</br>User ID : guest</br>Password : guest</br>Level : User|
@@ -1698,11 +1699,12 @@
 | RM|Server BIOS|Method : Console</br>Password : RM|
 | Rodopi|Unknown|User ID : Rodopi</br>Password : Rodopi|
 | rPath|rPath|Method : HTTP</br>User ID : admin</br>Password : password</br>Level : Administrator|
-| Saba|Centra|Version : 7</br>Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator|
 | RSA|Network Intelligence|Method : SSH</br>User ID : master</br>Password : themaster01</br>Level : Administrator|
 | RSA|SecurID Appliance|Method : HTTP</br>User ID : administrator</br>Password : RSAAppliance</br>Level : Administrator</br>Doc</br>Notes : Default IP: 192.168.100.100 Default port: 8098|
 | RSA|Access Manager|User ID : admin</br>Password : admin1234</br>Level : Administrator|
 | RSA|Cleartrust|Method : HTTP</br>User ID : admin</br>Password : admin1234|
+| Ruijie|Multiple|Method : HTTP</br>User ID : admin</br>Password : admin</br></br>User ID : guest</br>Password : guest</br></br>User ID : manager</br>Password : manager|
+| Saba|Centra|Version : 7</br>Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator|
 | Safecom|Router|User ID : admin</br>Password : epicrouter</br>Level : Administrator|
 | Samba|SWAT|Method : HTTP</br>User ID : Any</br>Password : Any</br>Doc</br>Notes : Log in with any valid system user account/password.|
 | Samsung|Printers|Method : SNMP</br>User ID : (none)</br>Password : s!a@m#n$p%c</br>Level : Public|
