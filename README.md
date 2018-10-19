@@ -1662,7 +1662,7 @@
 | Redcreek Communications|Ravlin VPN|Password : 1234|
 | Redcreek Communications|Ravlin VPN|Method : SNMP</br>Password : private</br>Doc</br>Notes : SNMP read/write string is "private"|
 | Research|PC BIOS|Method : Console</br>Password : Col2ogro2</br>Level : Administrator|
-| remote|exploit|User ID : root</br>Password : toor</br>Level : Administrator|
+| remote-exploit|BackTrack|User ID : root</br>Password : toor</br>Level : Administrator|
 | Resumix|Resumix|User ID : root</br>Password : resumix|
 | Research Machines|Classroom Assistant|User ID : manager</br>Password : changeme</br>Level : Administrator|
 | Rizen|WebGUI|User ID : Admin</br>Password : 123qwe</br>Level : Administrator|
