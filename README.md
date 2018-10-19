@@ -956,7 +956,7 @@
 | Jaspersoft Corporation|Jasper Reports Server|Method : HTTP</br>User ID : jasperadmin</br>Password : jasperadmin</br>Level : Administrator|
 | Jaspersoft Corporation|Jasper Reports Server|Method : HTTP</br>User ID : joeuser</br>Password : joeuser</br>Level : User</br>Notes : Sample data user|
 | Jaspersoft Corporation|Jasper Reports Server|Method : HTTP</br>User ID : demo</br>Password : demo</br>Level : User</br>Notes : Sample data user|
-| Jean|Philippe Lang|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator|
+| Jean-Philippe Lang|Redmine|Method : HTTP</br>User ID : admin</br>Password : admin</br>Level : Administrator|
 | Jeebles Technology|Jeebles Directory|Version : 2.9.60</br>Method : HTTP</br>User ID : (none)</br>Password : admin</br>Level : Administrator|
 | Jetform|Jetform Design|Method : HTTP</br>User ID : Jetform</br>Password : (none)</br>Level : Administrator|
 | JetWay|PC BIOS|Method : Console</br>Password : spooml</br>Level : Administrator|
