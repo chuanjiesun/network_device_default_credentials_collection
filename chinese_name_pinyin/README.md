@@ -1,1 +1,1 @@
-the dict could to use bf the username.
+the dict could be used in bruteforce chinese name.
