@@ -765,7 +765,7 @@
 | Horizon DataSys|FoolProof|User ID : (none)</br>Password : foolproof</br>Level : Administrator|
 | Honeynet Project|Honeywall|Version : roo (1.2)</br>Method : console</br>User ID : root</br>Password : honey</br>Level : Administrator|
 | Honeynet Project|Honeywall|Version : roo (1.2)</br>Method : console</br>User ID : roo</br>Password : honey</br>Level : Administrator|
-|Honeywell|Honeywell XL|Method:FTP</br>User ID : xwadmin</br>Password : kisrum1!</br></br>Method : HTTP</br>User ID : Guest</br>Password : guest</br>Level : user</br></br>User ID : SysAdmin</br>Password :honey</br>Level : Administrator|
+|Honeywell|Honeywell XL|Method:FTP</br>User ID : xwadmin</br>Password : kisrum1!</br></br>Method : HTTP</br>User ID : Guest</br>Password : guest</br>Level : user</br></br>Method : HTTP</br>User ID : SysAdmin</br>Password :honey</br>Level : Administrator|
 | HP|MSA2000 G3|User ID : admin</br>Password : !admin</br>Level : administrator|
 | Hosting Controller|Hosting Controller|Method : HTTP</br>User ID : AdvWebadmin</br>Password : advcomm500349</br>Level : Administrator|
 | Hyperic, Inc.|Hyperic HQ Portal|Method : HTTP</br>User ID : hqadmin</br>Password : hqadmin</br>Level : Administrator|
@@ -1769,6 +1769,7 @@
 | Siemens Corp|ROLM PBX|User ID : su</br>Password : super|
 | Siemens Corp|SE515|User ID : admin</br>Password : (none)</br>Level : Administrator|
 | Siemens Corp|Hipath/Hicom|User ID : 18140815</br>Password : 18140815|
+| Siemens Corp|Simatic web|User ID : Administrator</br>Password : 100</br>Level : Administrator|
 | Siemens Corp|Simatic WinCC SCADA|User ID : WinCCConnect</br>Password : 2WSXcder|
 | Siemens Corp|Simatic WinCC SCADA|User ID : WinCCAdmin</br>Password : 2WSXcde</br>Level : Administrator|
 | Silex Technology|USB Device Server|Method : Telnet/HTTP</br>User ID : root</br>Password : (non)</br>Level : Administrator|
